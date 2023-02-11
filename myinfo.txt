@@ -1,0 +1,3 @@
+haseeb javed
+cat > mynfo,txt
+cat > mynfo.txt
